@@ -1,0 +1,9 @@
+body {
+    background-color: darkgreen;
+}
+
+div#root {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+}
